@@ -1,0 +1,226 @@
+@media (max-width: 575.98px) {
+  .user_dashboard{
+    height: calc(100vh - 464px);
+  }
+  .editmatch_dialog_wrapper{
+    width: unset;
+  }
+  .navbar button {
+    font-size: 10px;
+    padding: 6px 2px;
+  }
+  .css-2abp7s-MuiAvatar-root {
+    width: 3rem !important;
+    height: 3rem !important;
+  }
+  .admin_container{
+    margin-top: 75px;
+    flex-direction: column;
+  }
+  .admin_container .admin_left_nav{
+    min-height: unset;
+  }
+  .dashboard-navbar{
+    display: flex;
+  }
+  .dashboard-navbar div {
+    padding: 14px 3rem 14px 10px !important;
+    font-size: 12px;
+  }
+  main {
+    margin-top: 78px !important;
+  }
+  .featured_wrapper {
+    height: 60vh;
+  }
+  .featured_first {
+    font-size: 2rem;
+  }
+  .featured_number {
+    font-size: 7rem;
+  }
+  .featured_player {
+    width: 13rem;
+    height: 13rem;
+    right: -10%;
+  }
+  .home_matches_wrapper .home_matches .item {
+    width: 98%;
+    margin: 20px 0;
+  }
+  .home_matches_wrapper .home_matches .item .wrapper {
+    padding: 0;
+  }
+  .home_matches_wrapper .home_matches {
+    justify-content: center;
+  }
+  .match_block .match_wrapper .match_top .left .team_name,
+  .match_block .match_wrapper .match_bottom .left .team_name {
+    font-size: 25px;
+  }
+  .home_meetplayers_wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  .player_card_wrapper {
+    width: 130px;
+  }
+  .player_card_wrapper .player_card_number {
+    font-size: 70px;
+    line-height: 80px;
+  }
+  .player_card_wrapper .player_card_thmb {
+    height: 130px;
+  }
+  .the_matches_wrapper {
+    flex-direction: column;
+  }
+  .the_matches_wrapper .right {
+    width: 100%;
+  }
+  .home_meetplayers .home_text_wrapper {
+    width: 100%;
+    text-align: center;
+  }
+  .home_text_wrapper h3 {
+    font-size: 3rem;
+  }
+  .home_text_wrapper a h3 {
+    font-size: unset;
+  }
+  .home_meetplayers .home_card_wrapper {
+    width: 75%;
+    min-height: 25rem;
+  }
+  .promotion_wrapper .promotion_animation {
+    flex-direction: column;
+    align-items: center;
+  }
+  .promotion_wrapper .promotion_animation {
+    padding: 0;
+  }
+  .promotion_wrapper .promotion_animation .left span {
+    font-size: 4rem;
+  }
+  .promotion_wrapper .promotion_animation .right div {
+    width: 12rem;
+    height: 12rem;
+  }
+  .team_category_wrapper .title {
+    font-size: 4rem;
+  }
+  .match_box_big .block_wraper {
+    margin-right: 30px;
+  }
+  .block_wraper.nfo {
+    margin-right: 0;
+  }
+  .match_box_big {
+    padding: 10px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .featured_wrapper {
+    height: 60vh;
+  }
+  .featured_first {
+    font-size: 3rem;
+  }
+  .featured_number {
+    font-size: 10rem;
+  }
+  .featured_player {
+    width: 20rem;
+    height: 20rem;
+    right: -10%;
+  }
+  .home_matches_wrapper .home_matches .item {
+    width: 80%;
+  }
+  .home_matches_wrapper .home_matches .item .wrapper {
+    padding: 0;
+  }
+  .home_matches_wrapper .home_matches {
+    justify-content: center;
+  }
+  .match_block .match_wrapper .match_top .left .team_name,
+  .match_block .match_wrapper .match_bottom .left .team_name {
+    font-size: 25px;
+  }
+  .home_meetplayers_wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  .player_card_wrapper {
+    width: 160px;
+  }
+  .player_card_wrapper .player_card_number {
+    font-size: 100px;
+    line-height: 100px;
+  }
+  .player_card_wrapper .player_card_thmb {
+    height: 170px;
+  }
+  .the_matches_wrapper {
+    flex-direction: column;
+  }
+  .the_matches_wrapper .right {
+    width: 100%;
+  }
+  .home_meetplayers .home_card_wrapper {
+    width: 75%;
+  }
+  .promotion_wrapper .promotion_animation {
+    flex-direction: column;
+    align-items: center;
+  }
+  .dashboard-navbar div {
+    padding: 14px 3rem 14px 10px !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .match_block .match_wrapper .match_top .left .team_name,
+  .match_block .match_wrapper .match_bottom .left .team_name {
+    font-size: 25px;
+  }
+  .home_meetplayers_wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  .player_card_wrapper {
+    width: 220px;
+  }
+  .player_card_wrapper .player_card_number {
+    font-size: 130px;
+    line-height: 120px;
+  }
+  .the_matches_wrapper {
+    flex-direction: column;
+  }
+  .the_matches_wrapper .right {
+    width: 100%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .featured_first {
+    font-size: 4rem;
+  }
+  .home_meetplayers .home_text_wrapper {
+    width: 300px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+}
+
+@media (min-width: 1440px) and (max-width: 1700px) {
+}
+
+@media (min-width: 1700.02px) {
+}
